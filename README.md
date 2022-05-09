@@ -1,1 +1,1 @@
-# lesson-1-git
+# CI/CD Lesson 1
